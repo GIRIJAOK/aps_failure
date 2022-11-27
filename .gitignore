@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+artifact
 # C extensions
 *.so
-demotest.pygit
+demotest.py
 logs
 artifacts
 raw_data
@@ -130,3 +130,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
